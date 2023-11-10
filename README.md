@@ -12,6 +12,7 @@ För att få godkänt ska ni:
 * använda Flexbox
 * implementera sidan enligt design
 * Använda enbart en CSS-fil.
+* En gruppmedlem skall lägga upp projektet på github och resterande klona ner det och göra minst en ändring var som pushas upp och syns på GH.
 
 
 ## Ni behöver inte:
