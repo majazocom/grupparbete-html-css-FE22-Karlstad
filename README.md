@@ -14,6 +14,7 @@ För att få godkänt ska ni:
 * Använda enbart en CSS-fil.
 * En gruppmedlem skall lägga upp projektet på github och resterande klona ner det och göra minst en ändring var som pushas upp och syns på GH.
 
+[Länk till figma-skissen](https://www.figma.com/file/Hbrk29Q2rVzXiXcFWdTXDA/planned-planthood?type=design&node-id=0%3A1&mode=design&t=9CHtB0GGoxLhWLYf-1)
 
 ## Ni behöver inte:
 
@@ -23,6 +24,7 @@ För att få godkänt ska ni:
 * Sidan har en max-bredd på 1000px.
 * Ikonerna kan ni använda hur mycket ni vill, men bilderna har jag snott från Unsplash, så då behöver man credda fotografen någonstans om man publicerar sin sida publikt. Detta är egentligen inget ni behöver bry er om nu, att lägga upp sin kod på github räknas inte riktigt, men det är alltid bra att ha det i åtanke.
 
+
+## Inlämning
 Inlämning sker senast via Azomo den 23/11 kl.23:59. Varje person i gruppen skall lämna in en länk till repot ni jobbat i.
 
-[Länk till figma-skissen](https://www.figma.com/file/Hbrk29Q2rVzXiXcFWdTXDA/planned-planthood?type=design&node-id=0%3A1&mode=design&t=9CHtB0GGoxLhWLYf-1)
