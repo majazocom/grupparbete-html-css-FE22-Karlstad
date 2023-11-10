@@ -23,4 +23,4 @@ För att få godkänt ska ni:
 
 Inlämning sker senast via Azomo den 23/11 kl.23:59. Varje person i gruppen skall lämna in en länk till repot ni jobbat i.
 
-Figmaskiss: https://www.figma.com/file/Hbrk29Q2rVzXiXcFWdTXDA/planned-planthood?type=design&node-id=0%3A1&mode=design&t=mrvgGVJQxXoZlKUS-1
+[Länk till figma-skissen](https://www.figma.com/file/Hbrk29Q2rVzXiXcFWdTXDA/planned-planthood?type=design&node-id=0%3A1&mode=design&t=9CHtB0GGoxLhWLYf-1)
