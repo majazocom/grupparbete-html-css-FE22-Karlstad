@@ -2,7 +2,7 @@
 
 # Planned Planthood
 
-Våren nalkas och det är dags att börja planera sina planteringar!
+Våren nalkas (ish) och det är dags att börja planera sina planteringar!
 En kund har bett om en enklare lösning för att få bättre koll på vilken planta som skall sås på vilken dag på vårkanten.
 Kunden bor i ett kollektiv där de har en kolonilott på innergården och det kan lätt bli oordning bland odlingar och odlare. Därför efterfrågar de en lösning på detta!
 
