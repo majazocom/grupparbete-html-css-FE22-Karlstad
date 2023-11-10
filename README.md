@@ -4,7 +4,7 @@
 
 Våren nalkas (ish) och det är dags att börja planera sina planteringar!
 En kund har bett om en enklare lösning för att få bättre koll på vilken planta som skall sås på vilken dag på vårkanten.
-Kunden är ett kollektiv som har en kolonilott på innergården och det kan lätt bli oordning bland odlingar och odlare. Därför efterfrågar de en lösning på detta!
+Kunden är ett kollektiv som har en stor gemensam kolonilott på innergården och det kan lätt bli oordning bland odlingar och odlare. Därför efterfrågar de en lösning på detta!
 
 ## Instruktioner
 För att få godkänt ska ni:
