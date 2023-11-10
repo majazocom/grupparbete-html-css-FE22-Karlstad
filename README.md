@@ -21,6 +21,7 @@ För att få godkänt ska ni:
 * ha några animationer eller liknande
 ## Specifikationer
 * Sidan har en max-bredd på 1000px.
+* Ikonerna kan ni använda hur mycket ni vill, men bilderna har jag snott från Unsplash, så då behöver man credda fotografen någonstans om man publicerar sin sida publikt. Detta är egentligen inget ni behöver bry er om nu, att lägga upp sin kod på github räknas inte riktigt, men det är alltid bra att ha det i åtanke.
 
 Inlämning sker senast via Azomo den 23/11 kl.23:59. Varje person i gruppen skall lämna in en länk till repot ni jobbat i.
 
